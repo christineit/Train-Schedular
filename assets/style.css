@@ -1,0 +1,29 @@
+*/ {
+  box-sizing: border-box;
+}
+
+body {
+  background: url(./prism.png);
+}
+.jumbotron {
+  text-align: center;
+  background: black;
+  color: white;
+  margin-top: 20px;
+}
+#jumboBigText {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: "Prata", serif;
+}
+#jumboLilText {
+  font-size: 20px;
+  font-family: "Prata", serif;
+}
+#cardTwo {
+  margin-top: 2%;
+}
+.card-header {
+  background: gray;
+  font-weight: bold;
+}
